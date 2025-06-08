@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607632802844",
+    "project_id": "flutteruassem4",
+    "storage_bucket": "flutteruassem4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607632802844:android:9abe1cbdd33c99d70a4bd9",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZc-bwsuCX_k0MBzsEsBxBiEndVypdgyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
