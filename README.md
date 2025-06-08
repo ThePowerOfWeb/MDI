@@ -1,4 +1,7 @@
 # aplikasi14
+RJ23A
+Ipan Ramadan
+Hasna Nurul Izah
 
 A new Flutter project.
 
