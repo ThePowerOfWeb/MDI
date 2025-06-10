@@ -1,7 +1,11 @@
 # aplikasi14
 RJ23A
-Ipan Ramadan
-Hasna Nurul Izah
+Ipan Ramadan (2390343055)
+Hasna Nurul Izzah (2390343052)
+Fungsionalitas: untuk management waktu
+Login and sign up, Create Read Update Delete (CRUD)
+Flutter run pada terminal, atau pake Emulator
+Tampilan UI: https://drive.google.com/drive/folders/10zzy9gMDypswb0retsLmqET6ec2NniBA?usp=drive_link
 
 A new Flutter project.
 
